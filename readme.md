@@ -1,7 +1,7 @@
 # Breachforums CDN downloader
 
 ###### Disclaimer
-1. This data is from the data breach site breachforums.st and was uploaded to the third party CDn (content delivery network) by a person referred to as "Emo".
+1. This data is from the data breach site breachforums.st and was uploaded to the third party CDN (content delivery network) by a person referred to as "Emo".
 2. The data availability and integrity is upto "Emo" and not under my control.
 3. I had no part in the breaching, uploading or sharing of these files.
 4. You are downloading databases from a threat actor, dont let your guard down.
