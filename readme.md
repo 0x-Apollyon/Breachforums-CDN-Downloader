@@ -1,5 +1,8 @@
 # Breachforums CDN downloader
 
+## DOESNT WORK NOW. CLOUDFLARE BLOCKS EVERYTHING
+## ARCHIVING TILL I CAN FIX THIS
+
 ###### Disclaimer
 1. This data is from the data breach site breachforums.st and was uploaded to the third party CDN (content delivery network) by a person referred to as "Emo".
 2. The data availability and integrity is upto "Emo" and not under my control.
